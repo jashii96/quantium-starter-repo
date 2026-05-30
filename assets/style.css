@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #f4f6f9;
+}
+
+h1 {
+    letter-spacing: 1px;
+}
+
+.dash-graph {
+    background: white;
+    border-radius: 12px;
+}
